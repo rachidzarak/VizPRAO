@@ -1,0 +1,9 @@
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - geopandas
+  - shapely
+  - geoviews
+  - cartopy
+  - hvplot.pandas
